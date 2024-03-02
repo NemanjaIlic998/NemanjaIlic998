@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nemanja Ilic
+- 👋 Hi, I’m Nemanja Ilic.
 - 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning TypeScript.
 
